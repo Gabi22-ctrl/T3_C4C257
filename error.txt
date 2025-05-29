@@ -1,0 +1,3 @@
+Error - Línea inválida: 'abcde
+'Error - Línea inválida: '12a34
+'
